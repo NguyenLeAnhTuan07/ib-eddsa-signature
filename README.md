@@ -93,6 +93,7 @@ python -m venv venv
 Then activate the virtual environment:
 
 source venv/bin/activate   # Linux / macOS
+
 venv\Scripts\Activate      # Windows (PowerShell)
 
 After activation, install the required library:
